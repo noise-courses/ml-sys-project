@@ -5,7 +5,7 @@
 Format the following information in a markdown table:
 
 * First Name, Last Name
-* cnet ID
+* Email Address
 * Project Role
 
 ## Project Description
